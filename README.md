@@ -15,22 +15,7 @@ __教育公平，一课一课推进。__ 在四个国家教了十年书，我知
 
   A local-first time workspace for people learning, researching, teaching or working with AI. It turns a sentence into a plan, checks the result, records honest elapsed time, and returns verified freed time to you. `Node.js · TypeScript · HTML/CSS · SQLite` <br> 本地优先的时间工作台，面向学习、研究、教学和 AI 时代的知识工作：把一句话变成可完成的事项，核验结果，记录真实用时，再把确认腾出的时间归还给你。项目已完成交付，当前持续优化功能细节。
 
-  The product keeps its core planning loop available without an external model, while the server-side AI companion adds task suggestions, streaming chat, model capability cards, news discovery and versioned agreements. It supports six interface languages, five appearance presets, local-first records, account and collaboration boundaries, and time calculations that distinguish "planned", "verified" and "not yet measured". [See the full product guide / 查看完整产品说明](https://github.com/K-LIU2016/Done-Go#readme)。
-
-  <br>产品在无外部模型时仍可完成核心计划循环；服务端 AI 伴聊补充任务建议、流式对话、模型能力卡、资讯发现和版本化约定。界面提供六种语言、五套外观、本地优先记录、账户与协作权限边界，并把"计划""已核验""待实测"的时间口径分开。
-
-  **Evidence from the current product entry / 当前产品入口截图：**
-
-  1. ![Done&Go today view](https://raw.githubusercontent.com/K-LIU2016/Done-Go/main/docs/screenshots/01-today.png)
-     **Today / 今天** — one-sentence capture, daily budget, onboarding and scrollable 30-minute slots reserved for yourself. <br>一句话录入、今日预算、首次任务引导，以及可滑动的 30 分钟"留给自己"时段。
-  2. ![Done&Go time tree](https://raw.githubusercontent.com/K-LIU2016/Done-Go/main/docs/screenshots/02-time-tree.png)
-     **Time Tree / 时间之树** — the day by hour, with states such as bud, flower and fruit and filtered AI news outside the tree. <br>按小时展开一天，用芽、花和果实表达状态，并可筛选树外的 AI 资讯。
-  3. ![Done&Go review](https://raw.githubusercontent.com/K-LIU2016/Done-Go/main/docs/screenshots/03-review.png)
-     **Review / 回顾** — 7- or 30-day time ledgers that keep negative differences honest. <br>按 7 天或 30 天复盘时间账本；超过原计划的负差值如实保留。
-  4. ![Done&Go agreements](https://raw.githubusercontent.com/K-LIU2016/Done-Go/main/docs/screenshots/04-agreements.png)
-     **Agreements / 约定** — versioned commitments and group collaboration joined with a server-generated secret. <br>双方可见的版本化约定，小组可通过服务端生成的口令加入。
-  5. ![Done&Go AI companion chat](https://raw.githubusercontent.com/K-LIU2016/Done-Go/main/docs/screenshots/05-assistant.png)
-     **Chat with Tango / 和探戈聊聊** — streaming AI suggestions and discussion, with the core loop still available offline. <br>流式 AI 建议与讨论；外部模型缺席时，核心循环仍可运行。
+  [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/Done-Go#readme)
 
 #### Building · 在做
 
