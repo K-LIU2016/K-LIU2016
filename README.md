@@ -1,4 +1,4 @@
-### Hi, I'm Kira 刘亚静 👋
+### Hi, I'm Kira 👋
 
 [![Email](https://img.shields.io/badge/Email-yajing1906232977@163.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yajing1906232977@163.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yajing--liu--yl0369-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yl0369/)
@@ -11,7 +11,7 @@ __教育公平，一课一课推进。__ 在四个国家教了十年书，我知
 
 #### Building · 在做
 
-- [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure) — Private, evidence-aware education product intelligence: describe a learner, context, goal and constraints, then trace a route from learning science to teaching intervention, product pattern, measurement and reviewable blueprint. The first case prepares a ten-character Mandarin conversation course for young Chinese-as-a-second-language learners; its founding aim is to earn classroom effectiveness and teacher-workload savings through evidence in every release cycle. `Python · JavaScript · HTML/CSS · JSON · Markdown` <br> 私有的教育产品设计基础设施：输入学习者、情境、目标与限制，追溯“学习科学 → 教学干预 → 产品机制 → 测量 → 可审查蓝图”的完整路线。首个案例为汉语二语学习者准备十个汉字的初次交流课程；设计初衷是让课堂效果证据与教师减负进入每一次产品迭代。多语言设计引擎与课程交付管线。
+- [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure) — Evidence-aware education product intelligence: describe a learner, context, goal and constraints, then trace a route from learning science to teaching intervention, product pattern, measurement and reviewable blueprint. The first case prepares a ten-character Mandarin conversation course for young Chinese-as-a-second-language learners; its founding aim is to earn classroom effectiveness and teacher-workload savings through evidence in every release cycle. `Python · JavaScript · HTML/CSS · JSON · Markdown` <br> 教育产品设计基础设施：输入学习者、情境、目标与限制，追溯“学习科学 → 教学干预 → 产品机制 → 测量 → 可审查蓝图”的完整路线。首个案例为汉语二语学习者准备十个汉字的初次交流课程；设计初衷是让课堂效果证据与教师减负进入每一次产品迭代。多语言设计引擎与课程交付管线。
 - [Bloom English](https://github.com/K-LIU2016/bloom-english)
   — Gamified Grade-1-9 English where every unit climbs Bloom's six levels. `JavaScript` <br> 游戏化英语学习：人教版新起点 × 布鲁姆认知六层，一关一个台阶。
 - [Phonics Game](https://github.com/K-LIU2016/phonics-game)
