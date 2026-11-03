@@ -1,4 +1,4 @@
-### Hi, I'm Kira 刘亚静 👋
+### Hi, I'm Kira 👋
 
 [![Email](https://img.shields.io/badge/Email-yajing1906232977@163.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yajing1906232977@163.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yajing--liu--yl0369-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yl0369/)
