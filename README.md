@@ -4,10 +4,40 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yajing--liu--yl0369-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yl0369/)
 [![Portfolio](https://img.shields.io/badge/Papers-Learning%20Design%20Portfolio-2496ED?style=flat-square&logo=googlescholar&logoColor=white)](https://github.com/K-LIU2016/learning-design-portfolio)
 
-__Education equity, one lesson at a time.__ Ten years of classrooms across four countries taught me what good learning feels like — now I build and research AI-powered learning tools so that any child can have it, not just the lucky ones. 
-__教育公平，一课一课推进。__ 在四个国家教了十年书，我知道好的学习长什么样——现在我用 AI 做学习和研究的工具，让每个孩子都够得着它，而不只是幸运的那几个。
+**Teacher, researcher, maker—and a collector of “what if?”**<br>
+**教师、研究者、动手造东西的人，也是一个收集「如果……会怎样？」的人。**
 
-`access → play → feedback → mastery → confidence` · `接入 → 玩 → 反馈 → 掌握 → 自信`
+I’ve spent ten years teaching across Thailand, the UK, Russia and China. Different classrooms keep bringing me back to questions I’m happy to spend a lifetime exploring: What makes a child want to understand? What helps them keep trying when something feels difficult? And how can more children experience the small, powerful moment of saying, “Wait—I think I’ve got it”?
+
+我在泰国、英国、俄罗斯和中国的课堂里，走过了十年。不同的语言、文化和孩子，让我不断回到几个愿意用很长时间追问的问题：是什么让一个孩子想要弄明白？遇到困难时，什么能让他们愿意再试一次？我们又怎样让更多孩子拥有那个小小的、却很有力量的瞬间——「等一下，我好像懂了！」
+
+**These days, I follow those questions into code.** Sometimes that means a phonics game that runs on an old laptop. Sometimes it means turning a question into a little universe you can wander through, or building a tool that gives people more room in their day. With Learning Infrastructure, I’m exploring how learning science can travel all the way into a lesson, an activity and something we can observe. My GitHub is a growing workshop of these attempts.
+
+**现在，我也把这些问题写进代码里。** 有时，它是一款旧电脑也能玩的自然拼读游戏；有时，是一个可以走进去、四处探索的知识宇宙；有时，是一个希望给人多留一点时间的工具。在 Learning Infrastructure 中，我尝试让学习科学一路走进教案、活动和可以观察的学习过程。这里的 GitHub，就是这些尝试慢慢生长的工作间。
+
+I like playful ideas and stubborn questions. Could a wrong answer open an interesting new path? Could a teacher spend less time assembling materials and more time noticing the child in front of them? Could a learner leave with a better question than the one they arrived with? I enjoy making things that invite people to click, try, wonder—and occasionally say, “Oh! Can I do that again?”
+
+我喜欢好玩的点子，也喜欢那些不肯轻易放过我的问题。答错一次，能不能开启一条有意思的新路？老师能不能少花一点时间拼凑材料，多一点时间看见眼前的孩子？学习者离开时，能不能带走一个比来时更好的问题？我喜欢做让人愿意点一点、试一试、想一想的东西，最好还能听到一句：「咦！我可以再玩一次吗？」
+
+**I take curiosity seriously, and evidence just as seriously.** A beautiful demo makes me want to investigate: what did someone actually learn, what helped, and what am I still assuming? My research in digital teaching and learning, together with the questions I meet in classrooms and makerspaces, keeps me practising that habit. I want to be excited enough to build an idea—and honest enough to change it when the evidence asks me to.
+
+**我认真对待好奇心，也认真对待证据。** 一个漂亮的演示会让我想继续往下问：学习者究竟学会了什么？哪一部分帮到了他们？哪些判断还只是我的假设？数字教学与学习的研究，以及课堂和创客空间里的问题，都在提醒我保持这种习惯。我希望自己始终有热情把一个想法做出来，也有诚实面对证据、重新修改它的勇气。
+
+Education is the thread running through all of this. I want teachers to have more time and energy for teaching, children to feel safe asking unfinished questions, and worthwhile learning to be within reach on ordinary devices, in ordinary classrooms. I’m still learning how to build towards that. There will be prototypes, surprises and things to rethink. I intend to keep showing up, asking better questions and making the next version.
+
+教育，是串起这些事情的那根线。我希望老师有更多时间和精力投入教学，孩子可以安心地问出还没想清楚的问题，普通的设备、普通的教室，也能承载值得投入的学习。我还在学习怎样一步步接近这些愿望。这一路会有小样、有惊喜，也会有需要推倒重想的地方。我愿意持续做下去，把问题问得更清楚，把下一个版本做得更好一点。
+
+**If you have a classroom puzzle, an unusual idea or a question that won’t leave you alone, I’d love to explore it with you. 🌱**<br>
+**如果你也有一个课堂里的难题、一个有点奇怪的点子，或一个一直放不下的问题，欢迎一起琢磨。🌱**
+
+`wonder → play → build → observe → rethink → try again`<br>
+`好奇 → 玩一玩 → 动手做 → 看证据 → 重新想 → 再试一次`
+
+> **We only live once; let's be as weird as we can and explore as much as we can.**<br>
+> **人生只有一次，让我们尽情古怪，尽兴探索。**
+>
+> **To dare to explore is to be alive. May we each become an intercontinental missile that nothing can intercept.**<br>
+> **勇于探索才等于活着，愿我们都成为那一个没有任何东西可以拦截的洲际导弹。**
 
 #### Completed · 已完成
 
