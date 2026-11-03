@@ -11,7 +11,7 @@ __教育公平，一课一课推进。__ 在四个国家教了十年书，我知
 
 #### Building · 在做
 
-- [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure) — Private, evidence-aware education product intelligence: describe a learner, context, goal and constraints, then trace a route from learning science to teaching intervention, product pattern, measurement and reviewable blueprint. The first case prepares a ten-character Mandarin conversation course for young Chinese-as-a-second-language learners; its founding aim is to earn classroom effectiveness and teacher-workload savings through evidence in every release cycle. `Python` <br> 私有的教育产品设计基础设施：输入学习者、情境、目标与限制，追溯“学习科学 → 教学干预 → 产品机制 → 测量 → 可审查蓝图”的完整路线。首个案例为汉语二语学习者准备十个汉字的初次交流课程；设计初衷是让课堂效果证据与教师减负进入每一次产品迭代。
+- [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure) — Evidence-aware education product intelligence: describe a learner, context, goal and constraints, then trace a route from learning science to teaching intervention, product pattern, measurement and reviewable blueprint. The first case prepares a ten-character Mandarin conversation course for young Chinese-as-a-second-language learners; its founding aim is to earn classroom effectiveness and teacher-workload savings through evidence in every release cycle. `Python` <br> 教育产品设计基础设施：输入学习者、情境、目标与限制，追溯“学习科学 → 教学干预 → 产品机制 → 测量 → 可审查蓝图”的完整路线。首个案例为汉语二语学习者准备十个汉字的初次交流课程；设计初衷是让课堂效果证据与教师减负进入每一次产品迭代。
 - [Bloom English](https://github.com/K-LIU2016/bloom-english)
   — Gamified Grade-1-9 English where every unit climbs Bloom's six levels. `JavaScript` <br> 游戏化英语学习：人教版新起点 × 布鲁姆认知六层，一关一个台阶。
 - [Phonics Game](https://github.com/K-LIU2016/phonics-game)
