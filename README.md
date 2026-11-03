@@ -12,14 +12,32 @@ __教育公平，一课一课推进。__ 在四个国家教了十年书，我知
 #### Building · 在做
 
 - [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure) — Evidence-aware education product intelligence: describe a learner, context, goal and constraints, then trace a route from learning science to teaching intervention, product pattern, measurement and reviewable blueprint. The first case prepares a ten-character Mandarin conversation course for young Chinese-as-a-second-language learners; its founding aim is to earn classroom effectiveness and teacher-workload savings through evidence in every release cycle. `Python · JavaScript · HTML/CSS · JSON · Markdown` <br> 教育产品设计基础设施：输入学习者、情境、目标与限制，追溯“学习科学 → 教学干预 → 产品机制 → 测量 → 可审查蓝图”的完整路线。首个案例为汉语二语学习者准备十个汉字的初次交流课程；设计初衷是让课堂效果证据与教师减负进入每一次产品迭代。多语言设计引擎与课程交付管线。
+- [Done&Go 探戈](https://github.com/K-LIU2016/Done-Go)
+  — A local-first time workspace for people learning, researching, teaching or working with AI. It turns a sentence into a plan, checks the result, records honest elapsed time, and returns verified freed time to you. `Node.js · TypeScript · HTML/CSS · SQLite` <br> 本地优先的时间工作台，面向学习、研究、教学和 AI 时代的知识工作：把一句话变成可完成的事项，核验结果，记录真实用时，再把确认腾出的时间归还给你。
+
+  The product keeps its core planning loop available without an external model, while the server-side AI companion adds task suggestions, streaming chat, model capability cards, news discovery and versioned agreements. It supports six interface languages, five appearance presets, local-first records, account and collaboration boundaries, and time calculations that distinguish “planned”, “verified” and “not yet measured”. [See the full product guide / 查看完整产品说明](https://github.com/K-LIU2016/Done-Go#readme)。
+
+  <br>产品在无外部模型时仍可完成核心计划循环；服务端 AI 伴聊补充任务建议、流式对话、模型能力卡、资讯发现和版本化约定。界面提供六种语言、五套外观、本地优先记录、账户与协作权限边界，并把“计划”“已核验”“待实测”的时间口径分开。
+
+  **Evidence from the current product entry / 当前产品入口截图：**
+
+  1. ![Done&Go today view](https://raw.githubusercontent.com/K-LIU2016/Done-Go/main/docs/screenshots/01-today.png)
+     **Today / 今天** — one-sentence capture, daily budget, onboarding and scrollable 30-minute slots reserved for yourself. <br>一句话录入、今日预算、首次任务引导，以及可滑动的 30 分钟“留给自己”时段。
+  2. ![Done&Go time tree](https://raw.githubusercontent.com/K-LIU2016/Done-Go/main/docs/screenshots/02-time-tree.png)
+     **Time Tree / 时间之树** — the day by hour, with states such as bud, flower and fruit and filtered AI news outside the tree. <br>按小时展开一天，用芽、花和果实表达状态，并可筛选树外的 AI 资讯。
+  3. ![Done&Go review](https://raw.githubusercontent.com/K-LIU2016/Done-Go/main/docs/screenshots/03-review.png)
+     **Review / 回顾** — 7- or 30-day time ledgers that keep negative differences honest. <br>按 7 天或 30 天复盘时间账本；超过原计划的负差值如实保留。
+  4. ![Done&Go agreements](https://raw.githubusercontent.com/K-LIU2016/Done-Go/main/docs/screenshots/04-agreements.png)
+     **Agreements / 约定** — versioned commitments and group collaboration joined with a server-generated secret. <br>双方可见的版本化约定，小组可通过服务端生成的口令加入。
+  5. ![Done&Go AI companion chat](https://raw.githubusercontent.com/K-LIU2016/Done-Go/main/docs/screenshots/05-assistant.png)
+     **Chat with Tango / 和探戈聊聊** — streaming AI suggestions and discussion, with the core loop still available offline. <br>流式 AI 建议与讨论；外部模型缺席时，核心循环仍可运行。
+
 - [Bloom English](https://github.com/K-LIU2016/bloom-english)
   — Gamified Grade-1-9 English where every unit climbs Bloom's six levels. `JavaScript` <br> 游戏化英语学习：人教版新起点 × 布鲁姆认知六层，一关一个台阶。
 - [Phonics Game](https://github.com/K-LIU2016/phonics-game)
   — Free, zero-install phonics games for ages 3-5, because learning shouldn't need a flagship phone. `HTML` <br> 免安装自然拼读游戏：学习不该需要一台旗舰手机
 - [Guiyi-Universe 归一](https://github.com/K-LIU2016/Guiyi-Universe)
   — One question, one world: a 3D knowledge universe for curious kids. `JavaScript` <br> 一问一世界：基于 Three.js 的 3D 知识探索宇宙
-- [Done&Go 探戈](https://github.com/K-LIU2016/Done-Go)
-  — All our lives, we dance with time — alone or amid the noise, in sorrow or in joy. AI moves ever faster: while many were still finding their way around Doubao, the AGI era arrived, Dots emerged, Instinct shipped. As you dance with the times, my Done&Go Tango helps you keep pace — facing what you don't yet know about AI, and embracing what a new era teaches you. `TypeScript` <br> 有生之年，我们都在与时间共舞——或孤独、或喧嚣、或悲伤、或欢欣。AI 发展得太快，快到很多人还只是在用豆包的时候，AGI 时代就到了，Dots 出来了，Instinct 发布了。在与时代共舞的时候，我的 Done&Go 探戈能帮你跟上时代的脚步——直面自己对 AI 的不熟悉，拥抱自己对新时代的新认知。
 - Mandarin Start 汉语启蒙 — *in design*: daily 10-minute Mandarin missions for overseas kids aged 5–8, heritage track leading to GCSE. <br> *设计中*：海外 5–8 岁儿童每日 10 分钟汉语任务，进步轨道直通 GCSE
 
 #### Research · 研究
