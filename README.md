@@ -21,39 +21,21 @@ __教育公平，一课一课推进。__ 在四个国家教了十年书，我知
 
   Three finished phonics mini-games in one single HTML file, free and zero-install for ages 3–5: flip-and-match letters, listen-and-guess across 8 themed word banks, and fill-the-missing-letter spelling — every word read aloud by the device's own voice, on any phone or old laptop a family already has. `HTML · Web Speech API · localStorage` <br> 三个已完成的自然拼读小游戏装在一个 HTML 文件里，面向 3–5 岁、免安装、免费：字母记忆配对、8 大主题词库听音辨词、看图补字母拼单词——每个单词都用设备自带语音朗读，一部普通手机或旧电脑就能玩。
 
-  Because learning shouldn't need a flagship phone: it opens in any browser and runs offline after loading; feedback is instant and audible — correct answers are spoken and earn stars that persist in the browser, wrong ones invite another try without punishment; word banks cover 26 alphabet picture-words (A-Apple … Z-Zebra), about 24 CVC words, themed banks for animals, food, numbers, colors, nature and the body, plus a mixed challenge; no account, no ads, no data collection. [See the full product guide / 查看完整产品说明](https://github.com/K-LIU2016/phonics-game#readme)。
+  Because learning shouldn't need a flagship phone: it opens in any browser and runs offline after loading; feedback is instant and audible — correct answers are spoken and earn stars that persist in the browser, wrong ones invite another try without punishment; word banks cover 26 alphabet picture-words (A-Apple … Z-Zebra), about 24 CVC words, themed banks for animals, food, numbers, colors, nature and the body, plus a mixed challenge; no account, no ads, no data collection.
 
   <br>学习不该需要一台旗舰手机：任意浏览器打开即玩，加载后可离线；反馈即时、听得见——答对朗读单词并奖励保存在浏览器的星星，答错可以再试、不惩罚；词库覆盖 26 个字母图片词（A-Apple … Z-Zebra）、约 24 个 CVC 词，以及动物、食物、数字、颜色、自然、身体主题词库与混合挑战；无账号、无广告、不收集数据。
 
-  **Evidence from the current product entry / 当前产品入口截图：**
-
-  1. ![Phonics Fun home menu](https://raw.githubusercontent.com/K-LIU2016/phonics-game/main/docs/screenshots/01-home.png)
-     **Home / 主菜单** — three game doors, the star counter and the age hint on a phone-sized screen; every visit starts from here with one tap. <br> 手机尺寸的主菜单：三个游戏入口、星星计数与年龄提示，点一下就能开始。
-  2. ![Memory Match gameplay](https://raw.githubusercontent.com/K-LIU2016/phonics-game/main/docs/screenshots/02-memory.png)
-     **Memory Match / 记忆翻翻乐** — a matched pair (🐯 Tiger ↔ Tt) stays open in green with stars +1; difficulty (4 or 6 pairs), flip counter and timer run above the grid. <br> 配对成功的一对（🐯 Tiger ↔ Tt）带绿框保持翻开、星星 +1；上方是难度选择（4 或 6 对）、翻牌次数与计时。
-  3. ![Listen and Guess gameplay](https://raw.githubusercontent.com/K-LIU2016/phonics-game/main/docs/screenshots/03-listen.png)
-     **Listen & Guess / 听音猜猜猜** — eight themed word banks across the top; the big speaker reads an English word and the child picks the matching picture; the dots show progress. <br> 顶部 8 个主题词库；大喇叭朗读英文单词，孩子在四张图片里选对应的一个；圆点显示当前进度。
-  4. ![Word Builder gameplay](https://raw.githubusercontent.com/K-LIU2016/phonics-game/main/docs/screenshots/04-spell.png)
-     **Word Builder / 单词拼拼乐** — a word misses one letter beside its emoji; the right tile locks in green (🪵 l·o·g) and the full word is spoken aloud. <br> 单词缺一个字母，选对字母块会以绿色锁定（🪵 l·o·g）并朗读整词。
+  [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/phonics-game#readme)
 
 - [Guiyi-Universe 归一](https://github.com/K-LIU2016/Guiyi-Universe) — **Completed Demo · 已完成小样演示**
 
   One question, one world: a walkable 3D knowledge universe. Hand it one question and six floating islands rise from the sea — 来路 (how others walked it) · 此地 (the conditions you face) · 岔路 (forked views) · 遇见 (real people) · 未至 (blind spots) · 成形 (your own answer) — each island has its own interaction (story trail, condition console, fork bridge, campfire, mist gate, idea wall), and Bloomy, a small robot with a green sprout, flies every route with you. `JavaScript · Three.js · Vite · Node.js` <br> 一问一世界：一个可以走进去的 3D 知识宇宙。交给它一个问题，六座浮岛从海面升起——来路（别人怎么走过）· 此地（你面对的条件）· 岔路（分歧的走法）· 遇见（真实的人）· 未至（盲点）· 成形（你自己的答案），六岛各有专属交互（故事小径、条件控制台、分岔桥、篝火围坐、迷雾光门、关联壁），头顶小芽的机器人 Bloomy 全程陪你走完。
 
-  The five-step journey 提问 → 探索 → 对照 → 遇见 → 成形 rewards seeing difference, not scoring recall: collected cards take stance stickers (认同 / 存疑 / 惊讶), comparisons point out premise gaps without judging winners, the people you meet ask questions back, and the visit ends by writing your own current answer, revisable anytime. The full loop runs offline on polished demo packs; with the local backend, Zhihu search and an LLM generate real question packs with sources and per-island plans; progress auto-saves in the browser. [See the full product guide / 查看完整产品说明](https://github.com/K-LIU2016/Guiyi-Universe#readme)。
+  The five-step journey 提问 → 探索 → 对照 → 遇见 → 成形 rewards seeing difference, not scoring recall: collected cards take stance stickers (认同 / 存疑 / 惊讶), comparisons point out premise gaps without judging winners, the people you meet ask questions back, and the visit ends by writing your own current answer, revisable anytime. The full loop runs offline on polished demo packs; with the local backend, Zhihu search and an LLM generate real question packs with sources and per-island plans; progress auto-saves in the browser.
 
   <br>五步旅程「提问 → 探索 → 对照 → 遇见 → 成形」奖励看见不同，而不是刷分：收下的卡片可贴态度贴纸（认同 / 存疑 / 惊讶），对照只指出前提差异、不裁决胜负，遇见的人会反过来追问你，结束时写下属于你此刻、可随时修改的答案。全程用内置演示问题包即可离线跑通；本机后端在线时，知乎检索 + 大模型生成带真实来源与六岛计划的问题包；进度自动存档。
 
-  **Evidence from the current product entry / 当前产品入口截图：**
-
-  1. ![Guiyi ask screen](https://raw.githubusercontent.com/K-LIU2016/Guiyi-Universe/master/docs/screenshots/01-ask.png)
-     **Ask / 提问 · 安静的海** — one question card on quiet water: tap a sample question or write your own; the universe will not hand you an answer, it will build a world for yours. <br> 安静的海面上只有一张问题卡：可选示例问题，也可写下自己的问题——宇宙不直接给答案，而是为你的问题生成一个世界。
-  2. ![Guiyi universe overview](https://raw.githubusercontent.com/K-LIU2016/Guiyi-Universe/master/docs/screenshots/02-universe.png)
-     **The universe rises / 宇宙升起** — bridges radiate from the central 成形 crystal to islands holding different cognitive moves; top-left is the live question card, top-right the five-step journey, and the small figure by the crystal is Bloomy. <br> 栈桥从中央成形水晶放射向六座岛；左上是当前问题卡，右上是五步旅程进度，水晶旁的小机器人是 Bloomy。
-  3. ![Lai story trail](https://raw.githubusercontent.com/K-LIU2016/Guiyi-Universe/master/docs/screenshots/03-island.png)
-     **来路 · Story Trail / 来路 · 故事小径** — one island's own interaction: light three story stones in order; the panel shows the local-rules tag for this demo pack and an online re-plan button for when the backend is available. <br> 来路岛的专属交互：依序点亮三块故事石；面板同时显示此演示包的「规则引导 · 本地推导」标记与后端可用时的「在线重规划」按钮。
-  4. ![A story stone lit with a card](https://raw.githubusercontent.com/K-LIU2016/Guiyi-Universe/master/docs/screenshots/04-card.png)
-     **A stone lit, a life opened / 石头点亮，一段人生翻开** — stone 1 opens the card of a 34-year-old illustrator who has drawn for twenty years, ending with a question back at the visitor — being asked by someone who has lived it is the most expensive thing in this world. <br> 故事石一点亮，翻开一位画了二十年画的插画师的经历卡，结尾向来访者反问一句——被真实经历过的人追问，是这个世界里最贵的东西。
+  [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/Guiyi-Universe#readme)
 
 #### Building · 在做
 
