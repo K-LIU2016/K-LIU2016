@@ -79,9 +79,6 @@ Education runs through everything I make. I want teachers to have more time and 
   <br>每个字还会在一首古诗里再次出现：逐字拼音、下方译文，桌上是由诗中象形字模型搭成的 3D 诗境；每五个字一套六题练习——看图识字、图文连线、古今对照、字义、听音选字、诗句填空——最后一页是组字实验室，两个象形字组成一个新字（日 + 月 → 明）。全部程序化生成：单 HTML 文件、零图片模型素材，普通教室设备可离线运行。
 
   [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/Oracle-Land#readme)
-- [Bloom English](https://github.com/K-LIU2016/bloom-english)
-  — Game-based English aligned with China’s PEP New Starting Point textbooks, progressing through the six levels of Bloom’s taxonomy, one stage at a time. `JavaScript` <br> 游戏化英语学习：人教版新起点 × 布鲁姆认知六层，一关一个台阶。
-- Mandarin Start 汉语启蒙 — *in design*: daily ten-minute Mandarin activities for children aged 5–8 living outside China, with a planned progression towards GCSE. <br> *设计中*：海外 5–8 岁儿童每日 10 分钟汉语任务，进步轨道直通 GCSE
 
 #### Research · 研究
 
