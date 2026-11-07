@@ -80,13 +80,9 @@ Education runs through everything I make. I want teachers to have more time and 
 
   [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/Oracle-Land#readme)
 
-#### Research · 研究
+#### [Research · 研究](https://github.com/K-LIU2016/learning-design-portfolio)
 
-- [Research · 研究](https://github.com/K-LIU2016/learning-design-portfolio)
-  — a learning design portfolio where classroom questions become research, prototypes and new possibilities. <br> 学习设计作品集：把课堂问题变成研究、原型与新的可能。
-- MA Digital Teaching and Learning, University of Nottingham. <br> 诺丁汉大学数字教学与学习硕士。
-- Research focus: organisational structure, people returning to participation, and how AI reshapes the relationship between organisations and the people within them. <br> 研究方向：组织架构、人员回归，以及 AI 如何重塑组织与人员之间的关系。
-- ISLS 2027 paper under review — how a member-governed makerspace negotiates the place of AI. <br> ISLS 2027 论文在审：成员自治的创客空间如何与 AI 共处。
+MA Digital Teaching and Learning, University of Nottingham · Research: how organisations take shape, call people back, and change when AI joins in · ISLS 2027 paper under review. <br> 诺丁汉大学数字教学与学习硕士 · 研究：组织架构、人员回归，以及 AI 加入后带来的改变 · ISLS 2027 论文在审。
 
 #### Classroom · 讲台
 
