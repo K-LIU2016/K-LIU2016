@@ -30,10 +30,11 @@ __教育公平，一课一课推进。__ 在四个国家教了十年书，我知
 
 #### Research · 研究
 
-- [Learning Design Portfolio](https://github.com/K-LIU2016/learning-design-portfolio)
-  — coursework & papers: learning-theory analysis, gamification research proposal, makerspace & AI. <br> 学习设计作品集：学习理论分析、游戏化研究提案、创客空间与 AI
-- MA Digital Teaching and Learning, University of Nottingham — dissertation on maker-centred learning. <br> 诺丁汉大学数字教学与学习硕士，毕业论文方向：创客中心学习
-- ISLS 2027 short paper under review — how a member-governed makerspace negotiates the place of AI. <br> ISLS 2027 短文在审：成员自治的创客空间如何安放 AI
+- [Research · 研究](https://github.com/K-LIU2016/learning-design-portfolio)
+  — a learning design portfolio where classroom questions become research, prototypes and new possibilities. <br> 学习设计作品集：把课堂问题变成研究、原型与新的可能。
+- MA Digital Teaching and Learning, University of Nottingham. <br> 诺丁汉大学数字教学与学习硕士。
+- Research focus: organisational structure, people returning to participation, and how AI reshapes the relationship between organisations and the people within them. <br> 研究方向：组织架构、人员回归，以及 AI 如何重塑组织与人员之间的关系。
+- ISLS 2027 paper under review — how a member-governed makerspace negotiates the place of AI. <br> ISLS 2027 论文在审：成员自治的创客空间如何与 AI 共处。
 
 #### Classroom · 讲台
 
