@@ -96,8 +96,8 @@ Core member of Tsinghua University Geek Society — exploring AI and emerging te
 - **Explainable AI, brain science and human futures** — How can AI remain understandable and accountable as it enters education and everyday life? What can cognitive science and neuroscience teach us about human development, future education, and supporting short-term, long-term and working memory?<br>
   **AI 可解释性、脑科学与人的未来**——当 AI 进入教育与日常生活，如何保持可理解、可追问、可负责？认知科学与神经科学能为人的发展、未来教育，以及短期记忆、长期记忆和工作记忆的支持带来什么启发？
 
-> *"Teach the child in front of you; design for the children you may never meet."*
-> 「教眼前可见的孩子，为远方见不到的孩子做设计。」
+> *"Teach the child in front of you; design for the children you may never meet; explore as far as curiosity takes you, and enjoy the life along the way."*
+> 「教眼前可见的孩子，为远方见不到的孩子做设计；沿着好奇心尽情探索，也好好享受一路上的生活。」
 
 ---
 
