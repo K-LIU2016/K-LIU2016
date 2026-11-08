@@ -39,46 +39,10 @@ Education runs through everything I make. I want teachers to have more time and 
 > **To be alive is to dare to explore. May we all be intercontinental missiles that nothing can intercept.**<br>
 > **勇于探索才等于活着，愿我们都成为那一个没有任何东西可以拦截的洲际导弹。**
 
-#### Completed · 已完成
+#### [Product Design · 产品设计](product-design.md)
 
-- [Done&Go 探戈](https://github.com/K-LIU2016/Done-Go) — **Complete and being refined · 已完成，优化中**
-
-  A workspace that keeps core time records on your own device, for learning, research, teaching and knowledge work in the age of AI. Turn a sentence into a manageable task, check the result, record the time actually spent and decide how to use any time confirmed as freed up. The product has been delivered, with further refinements under way. `Node.js · TypeScript · HTML/CSS · SQLite` <br> 本地优先的时间工作台，面向学习、研究、教学和 AI 时代的知识工作：把一句话变成可完成的事项，核验结果，记录真实用时，再把确认腾出的时间归还给你。项目已完成交付，当前持续优化功能细节。
-
-  [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/Done-Go#readme)
-
-- [Phonics Game 自然拼读乐园](https://github.com/K-LIU2016/phonics-game) — **Completed Demo · 已完成小样演示**
-
-  Three complete phonics mini-games in a single HTML file, free to use and with nothing to install, for children aged 3–5: turn over and match letters, listen and choose from 8 themed word banks, and fill in missing letters using picture clues. The device’s own voice reads each word aloud, so an ordinary phone or an old laptop is all you need. `HTML · Web Speech API · localStorage` <br> 三个已完成的自然拼读小游戏装在一个 HTML 文件里，面向 3–5 岁、免安装、免费：字母记忆配对、8 大主题词库听音辨词、看图补字母拼单词——每个单词都用设备自带语音朗读，一部普通手机或旧电脑就能玩。
-
-  Learning shouldn’t need a top-of-the-range phone. Open it in a browser and play offline once it has loaded. Feedback is immediate and spoken: a correct answer earns a star saved in the browser; a wrong answer simply means another go, with no penalty. The word banks include 26 illustrated alphabet words (A-Apple … Z-Zebra), around 24 CVC words, and themes covering animals, food, numbers, colours, nature and the body, plus a mixed challenge. No account, no adverts and no data collection.
-
-  <br>学习不该需要一台旗舰手机：任意浏览器打开即玩，加载后可离线；反馈即时、听得见——答对朗读单词并奖励保存在浏览器的星星，答错可以再试、不惩罚；词库覆盖 26 个字母图片词（A-Apple … Z-Zebra）、约 24 个 CVC 词，以及动物、食物、数字、颜色、自然、身体主题词库与混合挑战；无账号、无广告、不收集数据。
-
-  [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/phonics-game#readme)
-
-- [Guiyi-Universe 归一](https://github.com/K-LIU2016/Guiyi-Universe) — **Completed Demo · 已完成小样演示**
-
-  One question, one world: a 3D knowledge universe you can wander through. Ask a question and six floating islands rise from the sea: 来路 (the paths others have taken), 此地 (your circumstances), 岔路 (different viewpoints), 遇见 (real people), 未至 (blind spots) and 成形 (your own answer). Each has an activity of its own: a story trail, a console for exploring conditions, branching bridges, a campfire, a gate in the mist and a wall for connecting ideas. Bloomy, a little robot with a green sprout on its head, keeps you company throughout. `JavaScript · Three.js · Vite · Node.js` <br> 一问一世界：一个可以走进去的 3D 知识宇宙。交给它一个问题，六座浮岛从海面升起——来路（别人怎么走过）· 此地（你面对的条件）· 岔路（分歧的走法）· 遇见（真实的人）· 未至（盲点）· 成形（你自己的答案），六岛各有专属交互（故事小径、条件控制台、分岔桥、篝火围坐、迷雾光门、关联壁），头顶小芽的机器人 Bloomy 全程陪你走完。
-
-  The five stages — 提问 → 探索 → 对照 → 遇见 → 成形 (ask, explore, compare, meet and form your own understanding) — reward noticing different perspectives rather than racking up points. Label the cards you collect ‘agree’ (认同), ‘not sure’ (存疑) or ‘surprised’ (惊讶); compare the assumptions behind them without declaring a winner; and meet people whose cards ask you questions in return. Finish with your own answer as it stands, ready to revise whenever you like. The full journey works offline with built-in demo packs. With the local backend running online, Zhihu search and a language model generate question packs with sources and a plan for each island. Progress is saved automatically in the browser.
-
-  <br>五步旅程「提问 → 探索 → 对照 → 遇见 → 成形」奖励看见不同，而不是刷分：收下的卡片可贴态度贴纸（认同 / 存疑 / 惊讶），对照只指出前提差异、不裁决胜负，遇见的人会反过来追问你，结束时写下属于你此刻、可随时修改的答案。全程用内置演示问题包即可离线跑通；本机后端在线时，知乎检索 + 大模型生成带真实来源与六岛计划的问题包；进度自动存档。
-
-  [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/Guiyi-Universe#readme)
-
-#### Building · 在做
-
-- [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure) — Infrastructure for designing education products with evidence in mind. Describe the learner, setting, goals and constraints, then follow the reasoning from learning science through teaching interventions and product features to measurement and a blueprint you can review. The first case is a ten-character introductory conversation course for children learning Mandarin as a second language. The aim is to bring evidence of classroom learning and reduced teacher workload into every iteration, using a design engine and course production workflow built with several languages. `Python · JavaScript · HTML/CSS · JSON · Markdown` <br> 教育产品设计基础设施：输入学习者、情境、目标与限制，追溯"学习科学 → 教学干预 → 产品机制 → 测量 → 可审查蓝图"的完整路线。首个案例为汉语二语学习者准备十个汉字的初次交流课程；设计初衷是让课堂效果证据与教师减负进入每一次产品迭代。多语言设计引擎与课程交付管线。
-- [Oracle Land 神谕之地](https://github.com/K-LIU2016/Oracle-Land) — **Building · 在做**
-
-  A 3D flip-book of 50 Chinese pictographs (象形字) for learners of Chinese as a second language. Each character writes itself stroke by stroke in brush script, steps back three thousand years into its oracle-bone or bronze form, then rises off the page as the thing it pictures — the sun (日), a river (水), a horse (马), a cart (车) — with bilingual annotations and the story of how the picture became the character. `JavaScript · Three.js · WebGL2 · Web Speech API` <br> 五十个象形字的立体翻页练习册，面向汉语二语学习者：每个字先按笔顺一笔一笔写成楷书，退回三千年前的甲骨文或金文，再从纸上立起，成为它所画的实物——太阳（日）、河流（水）、马（马）、车（车）——附中英标注与「图画如何变成字」的字源故事。
-
-  Every character returns inside a classical poem: pinyin over each syllable, English below, and a 3D scene on the desk built from the pictograph models the poem names. A six-exercise practice set follows every five characters — picture, matching, ancient-to-modern, meaning, listening and fill-the-poem — and the last page is a compound lab where two pictographs make a new character (日 + 月 → 明). Everything is generated in code, one HTML file with no image or model assets, so it runs offline on ordinary classroom devices.
-
-  <br>每个字还会在一首古诗里再次出现：逐字拼音、下方译文，桌上是由诗中象形字模型搭成的 3D 诗境；每五个字一套六题练习——看图识字、图文连线、古今对照、字义、听音选字、诗句填空——最后一页是组字实验室，两个象形字组成一个新字（日 + 月 → 明）。全部程序化生成：单 HTML 文件、零图片模型素材，普通教室设备可离线运行。
-
-  [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/Oracle-Land#readme)
+A compact home for the products I’ve completed and the ones I’m still building. <br>
+已完成与正在构建的产品目录。
 
 #### [Research · 研究](https://github.com/K-LIU2016/learning-design-portfolio)
 
