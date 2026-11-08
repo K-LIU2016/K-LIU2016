@@ -44,6 +44,12 @@ Education runs through everything I make. I want teachers to have more time and 
 A compact home for the products I’ve completed and the ones I’m still building. <br>
 已完成与正在构建的产品目录。
 
+- [Done&Go 探戈](https://github.com/K-LIU2016/Done-Go) · **Completed / 已完成** — Plan your work, check the results and see where your time goes.<br>规划任务、核验成果，看清时间花在哪里。
+- [Phonics Game 自然拼读乐园](https://github.com/K-LIU2016/phonics-game) · **Demo complete / 演示版已完成** — Three phonics games, ready to play on an ordinary phone or an old laptop.<br>三款自然拼读小游戏，普通手机或旧电脑打开即玩。
+- [Guiyi-Universe 归一](https://github.com/K-LIU2016/Guiyi-Universe) · **Demo complete / 演示版已完成** — Follow a question through a 3D world and discover your own answer.<br>带着一个问题走进 3D 世界，探索属于自己的答案。
+- [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure) · **Building / 在做** — Turn learning science into lessons and product ideas you can put to the test.<br>把学习科学转化为可实践、可检验的课程与产品设计。
+- [Oracle Land 神谕之地](https://github.com/K-LIU2016/Oracle-Land) · **Building / 在做** — Watch Chinese pictographs come to life in a 3D world of characters and poetry.<br>在汉字与诗歌的 3D 世界里，看象形字从纸上活起来。
+
 #### [Research · 研究](https://github.com/K-LIU2016/learning-design-portfolio)
 
 MA Digital Teaching and Learning, University of Nottingham · Research: how organisations take shape, call people back, and change when AI joins in · ISLS 2027 paper under review. <br> 诺丁汉大学数字教学与学习硕士 · 研究：组织架构、人员回归，以及 AI 加入后带来的改变 · ISLS 2027 论文在审。
