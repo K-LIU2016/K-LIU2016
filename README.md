@@ -84,25 +84,17 @@ Education runs through everything I make. I want teachers to have more time and 
 
 MA Digital Teaching and Learning, University of Nottingham · Research: how organisations take shape, call people back, and change when AI joins in · ISLS 2027 paper under review. <br> 诺丁汉大学数字教学与学习硕士 · 研究：组织架构、人员回归，以及 AI 加入后带来的改变 · ISLS 2027 论文在审。
 
-#### Classroom · 讲台
-
-Thailand 🇹🇭 → UK 🇬🇧 → Russia 🇷🇺 → China 🇨🇳 · ages 3–18 · 100% GCSE pass rate · coached Chinese Bridge global finalists · 2,000+ cultural-exchange participants · 73 volunteer teachers trained
-泰国 → 英国 → 俄罗斯 → 中国 · 3–18 岁 · GCSE 通过率 100% · 指导学生闯入「汉语桥」全球总决赛 · 2000+ 人次文化交流 · 培训 73 名志愿教师
-
 #### Community · 社群
 
-Core member of Tsinghua University Geek Society — making things, tinkering and talking about AI and education with fellow geeks. / 清华大学极客社骨干：和极客们一起动手造物，聊 AI 与教育。
-
-#### Awards · 获奖
-
-FLTRP × DeepSeek Education Digital Resource Competition, **First Prize** (2025) 🥇 · Chinese Bridge **Outstanding Instructor** ×3 (2017/2020/2024) · UCL Confucius Institute **Outstanding Teacher** (2022)
-外研社 × DeepSeek 教育数字资源创新大赛**一等奖** · 「汉语桥」**优秀指导教师** ×3 · UCL 孔子学院**优秀教师**
+Core member of Tsinghua University Geek Society — exploring AI and emerging technologies across society, from brain–computer interfaces and healthcare to everyday life, education and the new questions they raise for how people live, work and learn.<br>
+清华大学极客社骨干：探索 AI 与新科技在社会各领域的应用，包括脑机接口、医疗健康、日常生活与教育，以及它们如何改变人的生活、工作与学习。
 
 #### Thinking about · 在想
 
-- The divide is shifting from *who has AI* to *who uses it well* — fairness now depends on how we put it into practice. / 洗牌正在发生：问题不再是「谁有 AI」，而是「谁把 AI 用好」——公平正落在实施层。
-- Can Bloom's taxonomy be a floor for every child, not a ceiling for a few? / 布鲁姆分类学，能否成为每个孩子的地板，而不是少数孩子的天花板？
-- AI assistance with clear limits and human checks — a finding from my makerspace fieldwork and a principle I build by. / 有边界的 AI 辅助 + 人的核验——田野研究的发现，也是我做产品的守则。
+- **Education equity in the age of AI** — How can educational resources be shared more fairly in practice? How can schools, universities and academic cultures keep pace with AI’s rapid growth without letting access, language, income or geography decide who benefits?<br>
+  **AI 时代的教育公平**——如何让教育资源真正更加公平地分配？学校、大学与学术环境如何与 AI 的快速发展接轨，而不让资源、语言、收入或地域决定谁能从中受益？
+- **Explainable AI, brain science and human futures** — How can AI remain understandable and accountable as it enters education and everyday life? What can cognitive science and neuroscience teach us about human development, future education, and supporting short-term, long-term and working memory?<br>
+  **AI 可解释性、脑科学与人的未来**——当 AI 进入教育与日常生活，如何保持可理解、可追问、可负责？认知科学与神经科学能为人的发展、未来教育，以及短期记忆、长期记忆和工作记忆的支持带来什么启发？
 
 > *"Teach the child in front of you; design for the children you may never meet."*
 > 「教眼前可见的孩子，为远方见不到的孩子做设计。」
