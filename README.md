@@ -4,8 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yajing--liu--yl0369-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yl0369/)
 [![Portfolio](https://img.shields.io/badge/Papers-Learning%20Design%20Portfolio-2496ED?style=flat-square&logo=googlescholar&logoColor=white)](https://github.com/K-LIU2016/learning-design-portfolio)
 
-**Teacher, researcher, maker — and collector of ‘what ifs’.**<br>
-**教师、研究者、动手造东西的人，也是一个收集「如果……会怎样？」的人。**
+**以实践推动教育公平，探索人工智能可解释性、脑科学与神经科学。**<br>
+**Advancing educational equity through practice; exploring AI interpretability, brain science and neuroscience.**
 
 Ten years of teaching in Thailand, the UK, Russia and China have left me with a few questions I could happily spend a lifetime exploring. What makes a child want to get to the bottom of something? What helps them have another go when it feels difficult? And what would help more children reach that small but rather wonderful ‘Hang on — I think I’ve got it!’ moment?
 
