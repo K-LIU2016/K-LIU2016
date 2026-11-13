@@ -41,57 +41,14 @@ Education runs through everything I make. I want teachers to have more time and 
 
 #### [Product Design · 产品设计](product-design.md)
 
-A compact home for the products I’ve completed and the ones I’m still building. <br>
-已完成与正在构建的产品目录。
-
-- [Done&Go 探戈](https://github.com/K-LIU2016/Done-Go) · **Completed / 已完成** — Plan your work, check the results and see where your time goes.<br>规划任务、核验成果，看清时间花在哪里。
-- [Phonics Game 自然拼读乐园](https://github.com/K-LIU2016/phonics-game) · **Demo complete / 演示版已完成** — Three phonics games, ready to play on an ordinary phone or an old laptop.<br>三款自然拼读小游戏，普通手机或旧电脑打开即玩。
-- [Guiyi-Universe 归一](https://github.com/K-LIU2016/Guiyi-Universe) · **Demo complete / 演示版已完成** — Follow a question through a 3D world and discover your own answer.<br>带着一个问题走进 3D 世界，探索属于自己的答案。
-- [NeuroAtlas 脑科学实验室](https://github.com/K-LIU2016/neuro-learning-lab) · **Demo complete / 演示版已完成** — Learn brain science through an interactive 3D atlas, from the four lobes to deep structures and Yeo-7 networks.<br>通过互动式三维图谱学习脑科学，从四个脑叶进入深部结构与 Yeo-7 七网络。
-- [LearnLattice Infra](https://github.com/K-LIU2016/learnlattice-infra) · **Building / 在做** — Kira Liu’s self-built Learning Infrastructure and LearnLattice Adapter surround the OpenMAIC classroom runtime. OpenMAIC is developed by THU-MAIC and is cited below.<br>LearnLattice Infra：Kira Liu 自建的 Learning Infrastructure 与 LearnLattice Adapter 连接 OpenMAIC 课堂运行层。OpenMAIC 由 THU-MAIC 开发，出处见下方。
-- [Oracle Land 神谕之地](https://github.com/K-LIU2016/Oracle-Land) · **Building / 在做** — Watch Chinese pictographs come to life in a 3D world of characters and poetry.<br>在汉字与诗歌的 3D 世界里，看象形字从纸上活起来。
-
 #### [Research · 研究](https://github.com/K-LIU2016/learning-design-portfolio)
 
-- [Phonics Game 自然拼读乐园](https://github.com/K-LIU2016/phonics-game) — **Completed Demo · 已完成小样演示**
-
-  Three complete phonics mini-games in a single HTML file, free to use and with nothing to install, for children aged 3–5: turn over and match letters, listen and choose from 8 themed word banks, and fill in missing letters using picture clues. The device’s own voice reads each word aloud, so an ordinary phone or an old laptop is all you need. `HTML · Web Speech API · localStorage` <br> 三个已完成的自然拼读小游戏装在一个 HTML 文件里，面向 3–5 岁、免安装、免费：字母记忆配对、8 大主题词库听音辨词、看图补字母拼单词——每个单词都用设备自带语音朗读，一部普通手机或旧电脑就能玩。
-
-  Learning shouldn’t need a top-of-the-range phone. Open it in a browser and play offline once it has loaded. Feedback is immediate and spoken: a correct answer earns a star saved in the browser; a wrong answer simply means another go, with no penalty. The word banks include 26 illustrated alphabet words (A-Apple … Z-Zebra), around 24 CVC words, and themes covering animals, food, numbers, colours, nature and the body, plus a mixed challenge. No account, no adverts and no data collection.
-
-  <br>学习不该需要一台旗舰手机：任意浏览器打开即玩，加载后可离线；反馈即时、听得见——答对朗读单词并奖励保存在浏览器的星星，答错可以再试、不惩罚；词库覆盖 26 个字母图片词（A-Apple … Z-Zebra）、约 24 个 CVC 词，以及动物、食物、数字、颜色、自然、身体主题词库与混合挑战；无账号、无广告、不收集数据。
-
-  [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/phonics-game#readme)
-
-- [Guiyi-Universe 归一](https://github.com/K-LIU2016/Guiyi-Universe) — **Completed Demo · 已完成小样演示**
-
-  One question, one world: a 3D knowledge universe you can wander through. Ask a question and six floating islands rise from the sea: 来路 (the paths others have taken), 此地 (your circumstances), 岔路 (different viewpoints), 遇见 (real people), 未至 (blind spots) and 成形 (your own answer). Each has an activity of its own: a story trail, a console for exploring conditions, branching bridges, a campfire, a gate in the mist and a wall for connecting ideas. Bloomy, a little robot with a green sprout on its head, keeps you company throughout. `JavaScript · Three.js · Vite · Node.js` <br> 一问一世界：一个可以走进去的 3D 知识宇宙。交给它一个问题，六座浮岛从海面升起——来路（别人怎么走过）· 此地（你面对的条件）· 岔路（分歧的走法）· 遇见（真实的人）· 未至（盲点）· 成形（你自己的答案），六岛各有专属交互（故事小径、条件控制台、分岔桥、篝火围坐、迷雾光门、关联壁），头顶小芽的机器人 Bloomy 全程陪你走完。
-
-  The five stages — 提问 → 探索 → 对照 → 遇见 → 成形 (ask, explore, compare, meet and form your own understanding) — reward noticing different perspectives rather than racking up points. Label the cards you collect ‘agree’ (认同), ‘not sure’ (存疑) or ‘surprised’ (惊讶); compare the assumptions behind them without declaring a winner; and meet people whose cards ask you questions in return. Finish with your own answer as it stands, ready to revise whenever you like. The full journey works offline with built-in demo packs. With the local backend running online, Zhihu search and a language model generate question packs with sources and a plan for each island. Progress is saved automatically in the browser.
-
-  <br>五步旅程「提问 → 探索 → 对照 → 遇见 → 成形」奖励看见不同，而不是刷分：收下的卡片可贴态度贴纸（认同 / 存疑 / 惊讶），对照只指出前提差异、不裁决胜负，遇见的人会反过来追问你，结束时写下属于你此刻、可随时修改的答案。全程用内置演示问题包即可离线跑通；本机后端在线时，知乎检索 + 大模型生成带真实来源与六岛计划的问题包；进度自动存档。
-
-  [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/Guiyi-Universe#readme)
-
-#### Building · 在做
-
-- [LearnLattice Infra](https://github.com/K-LIU2016/learnlattice-infra) — Kira Liu’s self-built **Learning Infrastructure** design/evidence layer and **LearnLattice Adapter** surround the interactive classroom runtime supplied by [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC). The adapter keeps objectives, theory, measurement, provenance and human review connected. OpenMAIC attribution: [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) · [paper](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-025-6000-0). The first case is a ten-character introductory conversation course for children learning Mandarin as a second language. `Python · JavaScript · HTML/CSS · JSON · Markdown` <br> LearnLattice Infra：Kira Liu 自建的 **Learning Infrastructure** 设计与证据层，以及 **LearnLattice Adapter** 适配层，连接由 [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) 提供的互动课堂运行层。适配层保留目标、理论、测量、来源链与人工审核。OpenMAIC 出处：[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) · [论文](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-025-6000-0)。首个案例为汉语二语儿童学习者的十个汉字初次交流课程。
-- [Bloom English](https://github.com/K-LIU2016/bloom-english)
-  — Game-based English aligned with China’s PEP New Starting Point textbooks, progressing through the six levels of Bloom’s taxonomy, one stage at a time. `JavaScript` <br> 游戏化英语学习：人教版新起点 × 布鲁姆认知六层，一关一个台阶。
-- Mandarin Start 汉语启蒙 — *in design*: daily ten-minute Mandarin activities for children aged 5–8 living outside China, with a planned progression towards GCSE. <br> *设计中*：海外 5–8 岁儿童每日 10 分钟汉语任务，进步轨道直通 GCSE
-
-#### Research · 研究
-
-- [Learning Design Portfolio](https://github.com/K-LIU2016/learning-design-portfolio)
-  — A learning design portfolio: analysis of learning theories, a research proposal on game-based learning, and work on makerspaces and AI. <br> 学习设计作品集：学习理论分析、游戏化研究提案、创客空间与 AI
-- MA Digital Teaching and Learning, University of Nottingham — dissertation focused on maker-centred learning. <br> 诺丁汉大学数字教学与学习硕士，毕业论文方向：创客中心学习
-- ISLS 2027 short paper under review — how a member-governed makerspace negotiates the place of AI. <br> ISLS 2027 短文在审：成员自治的创客空间如何安放 AI
+MA Digital Teaching and Learning, University of Nottingham · Research: how organisations take shape, call people back, and change when AI joins in · ISLS 2027 paper under review. <br> 诺丁汉大学数字教学与学习硕士 · 研究：组织架构、人员回归，以及 AI 加入后带来的改变 · ISLS 2027 论文在审。
 
 #### Classroom · 讲台
 
 Thailand 🇹🇭 → UK 🇬🇧 → Russia 🇷🇺 → China 🇨🇳 · ages 3–18 · 100% GCSE pass rate · coached Chinese Bridge global finalists · 2,000+ cultural-exchange participants · 73 volunteer teachers trained
 泰国 → 英国 → 俄罗斯 → 中国 · 3–18 岁 · GCSE 通过率 100% · 指导学生闯入「汉语桥」全球总决赛 · 2000+ 人次文化交流 · 培训 73 名志愿教师
-MA Digital Teaching and Learning, University of Nottingham · Research: how organisations take shape, call people back, and change when AI joins in · ISLS 2027 paper under review. <br> 诺丁汉大学数字教学与学习硕士 · 研究：组织架构、人员回归，以及 AI 加入后带来的改变 · ISLS 2027 论文在审。
 
 #### Community · 社群
 
