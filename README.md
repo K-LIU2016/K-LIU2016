@@ -41,6 +41,13 @@ Education runs through everything I make. I want teachers to have more time and 
 
 #### [Product Design · 产品设计](product-design.md)
 
+- [Done&Go 探戈](https://github.com/K-LIU2016/Done-Go) — A local-first time workspace that turns intentions into trackable tasks and returns verified time to learning, research and teaching.<br>本地优先的时间工作台，把想法变成可追踪事项，并将核验后节省的时间还给学习、研究与教学。
+- [Phonics Game 自然拼读乐园](https://github.com/K-LIU2016/phonics-game) — Three no-install phonics mini-games for young learners, playable offline on an ordinary phone or old laptop.<br>三款无需安装的自然拼读小游戏，适合幼儿在普通手机或旧电脑上离线学习。
+- [Guiyi-Universe 归一](https://github.com/K-LIU2016/Guiyi-Universe) — A 3D knowledge universe where questions become journeys through perspectives, encounters and your own answer.<br>一个把问题变成旅程的 3D 知识宇宙，带你穿过不同视角、真实相遇和自己的答案。
+- [NeuroAtlas 脑科学实验室](https://github.com/K-LIU2016/neuro-learning-lab) — An interactive 3D atlas for exploring the brain’s lobes, deep structures and Yeo-7 networks in one browser page.<br>互动式三维脑科学图谱，在一个网页中探索脑叶、深部结构与 Yeo-7 七网络。
+- [LearnLattice Infra](https://github.com/K-LIU2016/learnlattice-infra) — An evidence-aware learning infrastructure that connects learning science, teaching interventions, product patterns and reviewable classroom blueprints.<br>以证据为基础的学习基础设施，连接学习科学、教学干预、产品模式与可审查的课堂蓝图。
+- [Oracle Land 神谕之地](https://github.com/K-LIU2016/Oracle-Land) — A 3D flip-book that brings Chinese pictographs to life through writing, etymology, poetry and practice.<br>一个让象形字通过书写、字源、古诗与练习重新活起来的 3D 翻页式学习空间。
+
 #### [Research · 研究](https://github.com/K-LIU2016/learning-design-portfolio)
 
 MA Digital Teaching and Learning, University of Nottingham · Research: how organisations take shape, call people back, and change when AI joins in · ISLS 2027 paper under review. <br> 诺丁汉大学数字教学与学习硕士 · 研究：组织架构、人员回归，以及 AI 加入后带来的改变 · ISLS 2027 论文在审。
