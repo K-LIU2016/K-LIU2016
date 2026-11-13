@@ -56,11 +56,11 @@ Learn brain science through an interactive 3D atlas: follow guided journeys thro
 
 ## Building / 在做
 
-### [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure)
+### [LearnLattice Infra](https://github.com/K-LIU2016/learnlattice-infra)
 
-Infrastructure for designing education products with evidence in mind. Describe the learner, setting, goals and constraints, then follow the reasoning from learning science through teaching interventions and product features to measurement and a blueprint you can review. The first case is a ten-character introductory conversation course for children learning Mandarin as a second language. The aim is to bring evidence of classroom learning and reduced teacher workload into every iteration.
+Evidence-aware education product intelligence with an interactive classroom runtime. **Learning Infrastructure** is the design and evidence plane: describe the learner, setting, goals and constraints, then follow the reasoning from learning science through teaching interventions and product patterns to measurement and a reviewable blueprint. **OpenMAIC** is the interactive classroom runtime for stages, scenes, AI teacher and peer roles, learner interaction and export. The adapter keeps objectives, theory traces, measurement, provenance and human review connected as a design moves into runtime. OpenMAIC attribution: [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC), with the associated paper in the [Journal of Computer Science and Technology](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-025-6000-0). The first case is a ten-character introductory conversation course for children learning Mandarin as a second language.
 
-教育产品设计基础设施：输入学习者、情境、目标与限制，追溯“学习科学 → 教学干预 → 产品机制 → 测量 → 可审查蓝图”的完整路线。首个案例为汉语二语学习者准备十个汉字的初次交流课程；设计初衷是让课堂效果证据与教师减负进入每一次产品迭代。
+LearnLattice Infra：以证据为基础的教育产品智能基础设施，并连接互动课堂运行层。**Learning Infrastructure** 是设计与证据层：描述学习者、情境、目标和限制，沿着“学习科学 → 教学干预 → 产品模式 → 测量 → 可审查蓝图”追踪设计依据；**OpenMAIC** 是互动课堂运行层，负责 Stage、Scene、AI 教师与同伴角色、学习者互动和导出。适配层在设计进入运行时后继续保留目标、理论链、测量、来源链与人工审核。OpenMAIC 出处：[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)，相关论文见 [Journal of Computer Science and Technology](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-025-6000-0)。首个案例为汉语二语儿童学习者的十个汉字初次交流课程。
 
 ### [Oracle Land 神谕之地](https://github.com/K-LIU2016/Oracle-Land)
 
