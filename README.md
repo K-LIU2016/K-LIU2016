@@ -4,8 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yajing--liu--yl0369-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yl0369/)
 [![Portfolio](https://img.shields.io/badge/Papers-Learning%20Design%20Portfolio-2496ED?style=flat-square&logo=googlescholar&logoColor=white)](https://github.com/K-LIU2016/learning-design-portfolio)
 
-**Teacher, researcher, maker — and collector of ‘what ifs’.**<br>
-**教师、研究者、动手造东西的人，也是一个收集「如果……会怎样？」的人。**
+**以实践推动教育公平，探索人工智能可解释性、脑科学与神经科学。**<br>
+**Advancing educational equity through practice; exploring AI interpretability, brain science and neuroscience.**
 
 Ten years of teaching in Thailand, the UK, Russia and China have left me with a few questions I could happily spend a lifetime exploring. What makes a child want to get to the bottom of something? What helps them have another go when it feels difficult? And what would help more children reach that small but rather wonderful ‘Hang on — I think I’ve got it!’ moment?
 
@@ -39,13 +39,19 @@ Education runs through everything I make. I want teachers to have more time and 
 > **To be alive is to dare to explore. May we all be intercontinental missiles that nothing can intercept.**<br>
 > **勇于探索才等于活着，愿我们都成为那一个没有任何东西可以拦截的洲际导弹。**
 
-#### Completed · 已完成
+#### [Product Design · 产品设计](product-design.md)
 
-- [Done&Go 探戈](https://github.com/K-LIU2016/Done-Go) — **Complete and being refined · 已完成，优化中**
+A compact home for the products I’ve completed and the ones I’m still building. <br>
+已完成与正在构建的产品目录。
 
-  A workspace that keeps core time records on your own device, for learning, research, teaching and knowledge work in the age of AI. Turn a sentence into a manageable task, check the result, record the time actually spent and decide how to use any time confirmed as freed up. The product has been delivered, with further refinements under way. `Node.js · TypeScript · HTML/CSS · SQLite` <br> 本地优先的时间工作台，面向学习、研究、教学和 AI 时代的知识工作：把一句话变成可完成的事项，核验结果，记录真实用时，再把确认腾出的时间归还给你。项目已完成交付，当前持续优化功能细节。
+- [Done&Go 探戈](https://github.com/K-LIU2016/Done-Go) · **Completed / 已完成** — Plan your work, check the results and see where your time goes.<br>规划任务、核验成果，看清时间花在哪里。
+- [Phonics Game 自然拼读乐园](https://github.com/K-LIU2016/phonics-game) · **Demo complete / 演示版已完成** — Three phonics games, ready to play on an ordinary phone or an old laptop.<br>三款自然拼读小游戏，普通手机或旧电脑打开即玩。
+- [Guiyi-Universe 归一](https://github.com/K-LIU2016/Guiyi-Universe) · **Demo complete / 演示版已完成** — Follow a question through a 3D world and discover your own answer.<br>带着一个问题走进 3D 世界，探索属于自己的答案。
+- [NeuroAtlas 脑科学实验室](https://github.com/K-LIU2016/neuro-learning-lab) · **Demo complete / 演示版已完成** — Learn brain science through an interactive 3D atlas, from the four lobes to deep structures and Yeo-7 networks.<br>通过互动式三维图谱学习脑科学，从四个脑叶进入深部结构与 Yeo-7 七网络。
+- [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure) · **Building / 在做** — Turn learning science into lessons and product ideas you can put to the test.<br>把学习科学转化为可实践、可检验的课程与产品设计。
+- [Oracle Land 神谕之地](https://github.com/K-LIU2016/Oracle-Land) · **Building / 在做** — Watch Chinese pictographs come to life in a 3D world of characters and poetry.<br>在汉字与诗歌的 3D 世界里，看象形字从纸上活起来。
 
-  [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/Done-Go#readme)
+#### [Research · 研究](https://github.com/K-LIU2016/learning-design-portfolio)
 
 - [Phonics Game 自然拼读乐园](https://github.com/K-LIU2016/phonics-game) — **Completed Demo · 已完成小样演示**
 
@@ -85,24 +91,22 @@ Education runs through everything I make. I want teachers to have more time and 
 
 Thailand 🇹🇭 → UK 🇬🇧 → Russia 🇷🇺 → China 🇨🇳 · ages 3–18 · 100% GCSE pass rate · coached Chinese Bridge global finalists · 2,000+ cultural-exchange participants · 73 volunteer teachers trained
 泰国 → 英国 → 俄罗斯 → 中国 · 3–18 岁 · GCSE 通过率 100% · 指导学生闯入「汉语桥」全球总决赛 · 2000+ 人次文化交流 · 培训 73 名志愿教师
+MA Digital Teaching and Learning, University of Nottingham · Research: how organisations take shape, call people back, and change when AI joins in · ISLS 2027 paper under review. <br> 诺丁汉大学数字教学与学习硕士 · 研究：组织架构、人员回归，以及 AI 加入后带来的改变 · ISLS 2027 论文在审。
 
 #### Community · 社群
 
-Core member of Tsinghua University Geek Society — making things, tinkering and talking about AI and education with fellow geeks. / 清华大学极客社骨干：和极客们一起动手造物，聊 AI 与教育。
-
-#### Awards · 获奖
-
-FLTRP × DeepSeek Education Digital Resource Competition, **First Prize** (2025) 🥇 · Chinese Bridge **Outstanding Instructor** ×3 (2017/2020/2024) · UCL Confucius Institute **Outstanding Teacher** (2022)
-外研社 × DeepSeek 教育数字资源创新大赛**一等奖** · 「汉语桥」**优秀指导教师** ×3 · UCL 孔子学院**优秀教师**
+Core member of Tsinghua University Geek Society — exploring AI and emerging technologies across society, from brain–computer interfaces and healthcare to everyday life, education and the new questions they raise for how people live, work and learn.<br>
+清华大学极客社骨干：探索 AI 与新科技在社会各领域的应用，包括脑机接口、医疗健康、日常生活与教育，以及它们如何改变人的生活、工作与学习。
 
 #### Thinking about · 在想
 
-- The divide is shifting from *who has AI* to *who uses it well* — fairness now depends on how we put it into practice. / 洗牌正在发生：问题不再是「谁有 AI」，而是「谁把 AI 用好」——公平正落在实施层。
-- Can Bloom's taxonomy be a floor for every child, not a ceiling for a few? / 布鲁姆分类学，能否成为每个孩子的地板，而不是少数孩子的天花板？
-- AI assistance with clear limits and human checks — a finding from my makerspace fieldwork and a principle I build by. / 有边界的 AI 辅助 + 人的核验——田野研究的发现，也是我做产品的守则。
+- **Education equity in the age of AI** — How can educational resources be shared more fairly in practice? How can schools, universities and academic cultures keep pace with AI’s rapid growth without letting access, language, income or geography decide who benefits?<br>
+  **AI 时代的教育公平**——如何让教育资源真正更加公平地分配？学校、大学与学术环境如何与 AI 的快速发展接轨，而不让资源、语言、收入或地域决定谁能从中受益？
+- **Explainable AI, brain science and human futures** — How can AI remain understandable and accountable as it enters education and everyday life? What can cognitive science and neuroscience teach us about human development, future education, and supporting short-term, long-term and working memory?<br>
+  **AI 可解释性、脑科学与人的未来**——当 AI 进入教育与日常生活，如何保持可理解、可追问、可负责？认知科学与神经科学能为人的发展、未来教育，以及短期记忆、长期记忆和工作记忆的支持带来什么启发？
 
-> *"Teach the child in front of you; design for the children you may never meet."*
-> 「教眼前可见的孩子，为远方见不到的孩子做设计。」
+> *"Teach the child in front of you; design for the children you may never meet; explore as far as curiosity takes you, and enjoy the life along the way."*
+> 「教眼前可见的孩子，为远方见不到的孩子做设计；沿着好奇心尽情探索，也好好享受一路上的生活。」
 
 ---
 
