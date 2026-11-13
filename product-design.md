@@ -44,6 +44,16 @@ The five-stage journey — ask, explore, compare, meet and form your own underst
 
 [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/Guiyi-Universe#readme)
 
+### [NeuroAtlas 脑科学实验室](https://github.com/K-LIU2016/neuro-learning-lab)
+
+**Completed demo · 已完成小样演示**
+
+Learn brain science through an interactive 3D atlas: follow guided journeys through the four lobes, explore deep-brain structures, check your understanding with quick quizzes, and see how the Yeo-7 networks organise the cortex — all in one browser page, with nothing to install.
+
+通过互动式三维图谱学习脑科学：跟随引导路线认识四个脑叶，探索深部脑区结构，用小测验检验理解，并查看 Yeo-7 七网络如何组织大脑皮层——全部在一个网页里完成，无需安装任何东西。
+
+[Play the demo / 在线试玩](https://k-liu2016.github.io/neuro-learning-lab/) · [Product details & screenshots / 产品详情与截图](https://github.com/K-LIU2016/neuro-learning-lab#readme)
+
 ## Building / 在做
 
 ### [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure)
