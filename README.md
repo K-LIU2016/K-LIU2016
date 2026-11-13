@@ -48,7 +48,7 @@ A compact home for the products I’ve completed and the ones I’m still buildi
 - [Phonics Game 自然拼读乐园](https://github.com/K-LIU2016/phonics-game) · **Demo complete / 演示版已完成** — Three phonics games, ready to play on an ordinary phone or an old laptop.<br>三款自然拼读小游戏，普通手机或旧电脑打开即玩。
 - [Guiyi-Universe 归一](https://github.com/K-LIU2016/Guiyi-Universe) · **Demo complete / 演示版已完成** — Follow a question through a 3D world and discover your own answer.<br>带着一个问题走进 3D 世界，探索属于自己的答案。
 - [NeuroAtlas 脑科学实验室](https://github.com/K-LIU2016/neuro-learning-lab) · **Demo complete / 演示版已完成** — Learn brain science through an interactive 3D atlas, from the four lobes to deep structures and Yeo-7 networks.<br>通过互动式三维图谱学习脑科学，从四个脑叶进入深部结构与 Yeo-7 七网络。
-- [Learning Infrastructure](https://github.com/K-LIU2016/learning-infrastructure) · **Building / 在做** — Turn learning science into lessons and product ideas you can put to the test.<br>把学习科学转化为可实践、可检验的课程与产品设计。
+- [LearnLattice Infra](https://github.com/K-LIU2016/learnlattice-infra) · **Building / 在做** — Learning Infrastructure is the design and evidence plane; OpenMAIC is the interactive classroom runtime. Together they turn learning science into lessons and product ideas you can put to the test.<br>LearnLattice Infra：Learning Infrastructure 负责设计与证据层，OpenMAIC 负责互动课堂运行层，把学习科学转化为可实践、可检验的课程与产品设计。
 - [Oracle Land 神谕之地](https://github.com/K-LIU2016/Oracle-Land) · **Building / 在做** — Watch Chinese pictographs come to life in a 3D world of characters and poetry.<br>在汉字与诗歌的 3D 世界里，看象形字从纸上活起来。
 
 #### [Research · 研究](https://github.com/K-LIU2016/learning-design-portfolio)
