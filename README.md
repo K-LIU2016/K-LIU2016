@@ -11,9 +11,9 @@ Ten years of teaching in Thailand, the UK, Russia and China have left me with a 
 
 我在泰国、英国、俄罗斯和中国的课堂里，走过了十年。不同的语言、文化和孩子，让我不断回到几个愿意用很长时间追问的问题：是什么让一个孩子想要弄明白？遇到困难时，什么能让他们愿意再试一次？我们又怎样让更多孩子拥有那个小小的、却很有力量的瞬间——「等一下，我好像懂了！」
 
-**These days, those questions find their way into my code, too.** Sometimes that means a phonics game you can play on an old laptop. Sometimes it means a little universe you can wander round, or a tool intended to give you a bit more time in your day. With Learning Infrastructure, I’m exploring how learning science can inform lesson plans, activities and learning we can actually observe. This GitHub is the workshop where those ideas gradually take shape.
+**These days, those questions find their way into my code, too.** Sometimes that means a phonics game you can play on an old laptop. Sometimes it means a little universe you can wander round, or a tool intended to give you a bit more time in your day. With LearnLattice Infra, I’m exploring how learning science can inform lesson plans, activities and learning we can actually observe. This GitHub is the workshop where those ideas gradually take shape.
 
-**现在，我也把这些问题写进代码里。** 有时，它是一款旧电脑也能玩的自然拼读游戏；有时，是一个可以走进去、四处探索的知识宇宙；有时，是一个希望给人多留一点时间的工具。在 Learning Infrastructure 中，我尝试让学习科学一路走进教案、活动和可以观察的学习过程。这里的 GitHub，就是这些尝试慢慢生长的工作间。
+**现在，我也把这些问题写进代码里。** 有时，它是一款旧电脑也能玩的自然拼读游戏；有时，是一个可以走进去、四处探索的知识宇宙；有时，是一个希望给人多留一点时间的工具。在 LearnLattice Infra 中，我尝试让学习科学一路走进教案、活动和可以观察的学习过程。这里的 GitHub，就是这些尝试慢慢生长的工作间。
 
 I like playful ideas and questions that refuse to leave me alone. Could getting something wrong open up an interesting new route? Could teachers spend less time cobbling materials together and more time noticing the children in front of them? Could a learner leave with a better question than the one they arrived with? I enjoy making things that invite people to click, have a go and think a little — ideally followed by, ‘Ooh, can I do that again?’
 
